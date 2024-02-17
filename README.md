@@ -8,7 +8,7 @@ Project developed on Rocketseat's NLW Expert
 
 ## 🔗 Project Links
 
-- 🚀 [**Deploy**](https://nlw-notes-psi.vercel.app/)
+- 🚀 [**Deploy**](https://notes-nlw-app.vercel.app/)
 
 ## 📋 Project information
 
