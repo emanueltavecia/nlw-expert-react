@@ -4,7 +4,7 @@ Project developed on Rocketseat's NLW Expert
 
 **NLW Notes is a website that allows you to save text notes generated from speech recognition with the browser API, designed to learn basic ReactJS concepts**
 
-![NLW Notes project screenshot](./.github/screenshot.png)
+![NLW Notes project screenshot](./.github/cover.png)
 
 ## 🔗 Project Links
 
